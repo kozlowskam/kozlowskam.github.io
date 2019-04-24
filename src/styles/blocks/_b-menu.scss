@@ -1,0 +1,35 @@
+.b-menu {
+  flex: 0 1 auto;
+  display: flex;
+  flex-direction: column;
+
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 100%;
+  width: 100%;
+  transition: all $transition-time-1 $transition-easing-1;
+
+  &__link {
+    flex: 1 0 3rem; // For Safari jumping
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		padding: 0 1rem 0 ($grid-gutter-width / 2);
+		line-height: 1; // For Safari jumping
+		color: $white;
+		font-size: $font-size-sm;
+		font-weight: $font-weight-bold;
+		color: $ggreen;
+		transition: all $transition-time-1 $transition-easing-1;
+
+		@include media-breakpoint-up(md) {
+			padding: 0 1rem 0 $grid-gutter-width;
+		}
+
+		&.is-active {
+			color: $ggreen;
+		}
+	}
+
+}

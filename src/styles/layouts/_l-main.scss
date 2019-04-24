@@ -1,0 +1,7 @@
+.l-main {
+	// https://stackoverflow.com/a/46496701/3305454	- How do I uncollapse a margin?
+	display: flex;
+	flex: 1 0 auto;
+	flex-flow: column wrap;
+  min-height: 100vh;
+}

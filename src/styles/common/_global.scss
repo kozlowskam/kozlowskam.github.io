@@ -1,0 +1,90 @@
+* {
+	box-sizing: border-box;
+
+	&:focus {
+		outline: 0 !important;
+	}
+}
+
+html {
+	@include responsive-font($font-size-fluid, $font-size-min, $font-size-max, $font-size-min);
+}
+
+body {
+	font-size: $font-size-base;
+	font-weight: $font-weight-regular;
+	background: $violet;
+}
+
+.bc_white {
+	background: $white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	line-height: 1.3;
+	margin-bottom: $grid-gutter-width / 2;
+	color: $white;
+	font-weight: $font-weight-regular;
+}
+
+h1 {
+	@include fontSize($h1-font-size);
+}
+
+h2 {
+	@include fontSize($h2-font-size);
+}
+
+h3 {
+	@include fontSize($h3-font-size);
+}
+
+h4 {
+	font-size: $h4-font-size;
+}
+
+h5 {
+	font-size: $h5-font-size;
+}
+
+h6 {
+	font-size: $h6-font-size;
+}
+
+p{
+	margin: 0;
+	padding: 0
+}
+
+a,
+button,
+input,
+label {
+	cursor: pointer;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+}
+
+a {
+	color: $white;
+
+	&:hover,
+	&:focus,
+	&:active {
+		color: $gray-border;
+		text-decoration: none;
+	}
+}
+

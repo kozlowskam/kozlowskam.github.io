@@ -1,0 +1,58 @@
+.b-graphics {
+  display: flex;
+  @include make-row();
+  justify-content: center;
+  margin-top: $header-height;
+
+  &__container {
+    @include make-col-ready();
+    @include make-col(12);
+    justify-content: center;
+    padding: $container-padding/2;
+    cursor: pointer;
+
+    @include media-breakpoint-up(md) {
+      @include make-col-ready();
+      @include make-col(4);
+      @include make-row();
+      justify-content: center;
+    }
+
+    .title {
+      display: none
+    }
+
+    &:hover .title {
+      display: block;
+      color: $white;
+      font-size: $font-size-base;
+      font-weight: $font-weight-semibold;
+      padding-left: $container-padding/2;
+      padding-top: $container-padding/2;
+      text-align: center;
+
+      @include media-breakpoint-up(md) {
+        text-align: left;
+        padding-top: 0;
+      }
+    }
+  }
+
+  &__cover {
+    @include make-col-ready();
+    @include make-col(12);
+    display: block;
+    align-self: center;
+    right: 0;
+    height: auto;
+  
+
+
+    @include media-breakpoint-up(md) {
+      @include make-col(6);
+      padding: 0 ;
+    }
+  }
+
+
+}

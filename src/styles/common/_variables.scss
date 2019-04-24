@@ -1,0 +1,60 @@
+// Override colors
+$gray-border: #f1f1f4;
+$gray: #cdc0d5;
+$gray-700: #4a4a4a;
+$gray-800: #333;
+
+// Custom colors
+$violet: rgb(133, 18, 240);
+$purple-blue: rgb(55, 0, 255);
+$ggreen: rgb(0, 255, 0);
+$white: #fff;
+$black: #000;
+
+// Fluid font-size
+$font-size-fluid: 2vw; // Set on html: Tweak this value for global sizing
+$font-size-min: 18px; // Set on html
+$font-size-max: 20px; // Set on html
+
+$font-size-base: 1rem; // 20 ~ 23px
+$font-size-xxl: 3rem;
+$font-size-lg: 1.2rem; // ~24px
+$font-size-sm: 0.8rem; // ~16px
+$font-size-xs: 0.7rem; // ~14px
+$font-size-xxs: 0.66rem; // ~12px
+
+$font-weight-regular: 400;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+
+$line-height-base: 2;
+
+$border-radius: 5px;
+
+$h1-font-size: $font-size-base * 2.75; // ~55px
+$h2-font-size: $font-size-base * 2; // ~40px
+$h3-font-size: $font-size-base * 1.75; // ~35px
+$h4-font-size: $font-size-base * 1.5; // ~30px
+$h5-font-size: $font-size-base * 1.25; // ~25px
+$h6-font-size: $font-size-base; // ~20px
+
+// Gutters and padding
+$grid-gutter-width: $font-size-base * 1.125;
+$container-padding: $font-size-base * 3.33;
+
+$header-height         : 5rem;
+$header-height-mobile  : 3.5rem;
+
+$image-size: 20rem;
+
+// Transitions
+$transition-time-1        : .25s;
+$transition-time-2        : .5s;
+$transition-time-3        : .75s;
+
+$transition-easing-1      : cubic-bezier(.15, 0, 0, 1);    // ~ ease-in-slowly-ease-out
+$transition-easing-2      : cubic-bezier(.4, 0, .6, 1);    // ~ ease-in-out
+$transition-easing-3      : cubic-bezier(.25, .1, .25, 1); // ~ ease
+$transition-easing-4      : cubic-bezier(.4, 0, 1, 1);     // ~ ease-in
+$transition-easing-5      : cubic-bezier(0, 0, .6, 1);     // ~ ease-out
+
