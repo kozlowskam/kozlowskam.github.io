@@ -160,7 +160,7 @@ self.__precacheManifest = [
     "url": "/static/media/csc_cover.39670ac7.png"
   },
   {
-    "revision": "e0a995346322430cd82272ca64f6c60c",
+    "revision": "8b54961022dacffe3a9d3f4bc411f330",
     "url": "/index.html"
   }
 ];
