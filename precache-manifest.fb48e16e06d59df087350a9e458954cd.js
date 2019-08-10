@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "7c6967cd95180b64e1089ebd80801e67",
-    "url": "/static/media/CPM18.7c6967cd.jpg"
+    "revision": "50bfff689550538c9e8dd30f701f2a40",
+    "url": "/static/media/logo_mupop.50bfff68.jpg"
   },
   {
-    "revision": "c08dfc212fe11cf783b1",
-    "url": "/static/css/main.1bb30a91.chunk.css"
+    "revision": "bad00b77f209c98a54a4",
+    "url": "/static/css/main.1939206a.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "869507b27658c6b58c1c",
-    "url": "/static/js/2.869507b2.chunk.js"
+    "revision": "b9614f45e735342cd5b1",
+    "url": "/static/js/2.b9614f45.chunk.js"
   },
   {
     "revision": "30d9dfe98974473162f9036b5579b161",
@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "/static/media/CPM17.3a72775a.jpg"
   },
   {
-    "revision": "c08dfc212fe11cf783b1",
-    "url": "/static/js/main.c08dfc21.chunk.js"
+    "revision": "7c6967cd95180b64e1089ebd80801e67",
+    "url": "/static/media/CPM18.7c6967cd.jpg"
   },
   {
-    "revision": "50bfff689550538c9e8dd30f701f2a40",
-    "url": "/static/media/logo_mupop.50bfff68.jpg"
+    "revision": "bad00b77f209c98a54a4",
+    "url": "/static/js/main.bad00b77.chunk.js"
   },
   {
     "revision": "46e948ff9be5c3dc541daf5f5e6cfe78",
@@ -152,6 +152,10 @@ self.__precacheManifest = [
     "url": "/static/media/transformcity_cover.4863a64c.png"
   },
   {
+    "revision": "6d82ce79d0951bfc4b500998f4ed0b4b",
+    "url": "/static/media/urbee_cover.6d82ce79.png"
+  },
+  {
     "revision": "00fcaf568913e6734acfd4574b785062",
     "url": "/static/media/ts_cover.00fcaf56.png"
   },
@@ -160,7 +164,7 @@ self.__precacheManifest = [
     "url": "/static/media/csc_cover.39670ac7.png"
   },
   {
-    "revision": "8b54961022dacffe3a9d3f4bc411f330",
+    "revision": "101eeda6363c5eed8f03ef47197602e4",
     "url": "/index.html"
   }
 ];
