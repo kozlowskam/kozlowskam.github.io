@@ -4,32 +4,36 @@ self.__precacheManifest = [
     "url": "/static/media/logo_mupop.50bfff68.jpg"
   },
   {
-    "revision": "bad00b77f209c98a54a4",
-    "url": "/static/css/main.1939206a.chunk.css"
+    "revision": "046fbba3e5b857f9aae2",
+    "url": "/static/css/main.e6f54490.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "b9614f45e735342cd5b1",
-    "url": "/static/js/2.b9614f45.chunk.js"
+    "revision": "95bf70aa71c9abbc64b2",
+    "url": "/static/js/2.95bf70aa.chunk.js"
   },
   {
     "revision": "30d9dfe98974473162f9036b5579b161",
     "url": "/static/media/010cover.30d9dfe9.png"
   },
   {
-    "revision": "6a02546efbe2afd7c37444b4bb2a8195",
-    "url": "/static/media/mk-logo_long.6a02546e.png"
+    "revision": "6d8c42fac53f3087b5b5473f6b351b53",
+    "url": "/static/media/arrow.6d8c42fa.svg"
   },
   {
-    "revision": "2c0ef3a66d4b3f8ec3c1f79d1ccba5b6",
-    "url": "/static/media/logos_copy.2c0ef3a6.png"
+    "revision": "47168244c85a4570bbcc5451fb9482cc",
+    "url": "/static/media/arrow-black.47168244.svg"
   },
   {
-    "revision": "4ee2fed13fc1965232a9083293a2dc23",
-    "url": "/static/media/jj bilboardy.4ee2fed1.png"
+    "revision": "3073d0e6eed3074ac44f5d94ba56ab56",
+    "url": "/static/media/github_logo-black.3073d0e6.png"
+  },
+  {
+    "revision": "5eb2e6df3d39c8a4208d49cb56089a76",
+    "url": "/static/media/github_logo.5eb2e6df.png"
   },
   {
     "revision": "493ee0c051dcbb180170ee5c6869361f",
@@ -84,8 +88,8 @@ self.__precacheManifest = [
     "url": "/static/media/CPM18.7c6967cd.jpg"
   },
   {
-    "revision": "bad00b77f209c98a54a4",
-    "url": "/static/js/main.bad00b77.chunk.js"
+    "revision": "046fbba3e5b857f9aae2",
+    "url": "/static/js/main.046fbba3.chunk.js"
   },
   {
     "revision": "46e948ff9be5c3dc541daf5f5e6cfe78",
@@ -148,6 +152,10 @@ self.__precacheManifest = [
     "url": "/static/media/typo.b8c5009e.png"
   },
   {
+    "revision": "416e9840c62d9b621bf498b408719bcf",
+    "url": "/static/media/audi_cover.416e9840.png"
+  },
+  {
     "revision": "4863a64c47aba22a000067214b373856",
     "url": "/static/media/transformcity_cover.4863a64c.png"
   },
@@ -164,7 +172,7 @@ self.__precacheManifest = [
     "url": "/static/media/csc_cover.39670ac7.png"
   },
   {
-    "revision": "b2d5630df556f0fd3f0c36ee047c85fa",
+    "revision": "071ff211f85e21739f7297648b1aaba8",
     "url": "/index.html"
   }
 ];
