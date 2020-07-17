@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/logo_mupop.50bfff68.jpg"
   },
   {
-    "revision": "046fbba3e5b857f9aae2",
-    "url": "/static/css/main.e6f54490.chunk.css"
+    "revision": "4dfb16d38380d129985c",
+    "url": "/static/css/main.ee286872.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/static/media/010cover.30d9dfe9.png"
   },
   {
-    "revision": "6d8c42fac53f3087b5b5473f6b351b53",
-    "url": "/static/media/arrow.6d8c42fa.svg"
-  },
-  {
     "revision": "47168244c85a4570bbcc5451fb9482cc",
     "url": "/static/media/arrow-black.47168244.svg"
+  },
+  {
+    "revision": "6d8c42fac53f3087b5b5473f6b351b53",
+    "url": "/static/media/arrow.6d8c42fa.svg"
   },
   {
     "revision": "3073d0e6eed3074ac44f5d94ba56ab56",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/static/media/CPM18.7c6967cd.jpg"
   },
   {
-    "revision": "046fbba3e5b857f9aae2",
-    "url": "/static/js/main.046fbba3.chunk.js"
+    "revision": "4dfb16d38380d129985c",
+    "url": "/static/js/main.4dfb16d3.chunk.js"
   },
   {
     "revision": "46e948ff9be5c3dc541daf5f5e6cfe78",
@@ -172,7 +172,7 @@ self.__precacheManifest = [
     "url": "/static/media/csc_cover.39670ac7.png"
   },
   {
-    "revision": "071ff211f85e21739f7297648b1aaba8",
+    "revision": "99e86602d81b682d2a59a672e593079e",
     "url": "/index.html"
   }
 ];
