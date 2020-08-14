@@ -1,31 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "50bfff689550538c9e8dd30f701f2a40",
-    "url": "/static/media/logo_mupop.50bfff68.jpg"
+    "revision": "5b5d4ffcb1b758de4628",
+    "url": "/static/css/main.b0c82f8b.chunk.css"
   },
   {
-    "revision": "4dfb16d38380d129985c",
-    "url": "/static/css/main.ee286872.chunk.css"
+    "revision": "5b5d4ffcb1b758de4628",
+    "url": "/static/js/main.5b5d4ffc.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "95bf70aa71c9abbc64b2",
-    "url": "/static/js/2.95bf70aa.chunk.js"
+    "revision": "afcbcff79f46ad626c8c",
+    "url": "/static/js/2.afcbcff7.chunk.js"
   },
   {
     "revision": "30d9dfe98974473162f9036b5579b161",
     "url": "/static/media/010cover.30d9dfe9.png"
   },
   {
-    "revision": "47168244c85a4570bbcc5451fb9482cc",
-    "url": "/static/media/arrow-black.47168244.svg"
-  },
-  {
     "revision": "6d8c42fac53f3087b5b5473f6b351b53",
     "url": "/static/media/arrow.6d8c42fa.svg"
+  },
+  {
+    "revision": "47168244c85a4570bbcc5451fb9482cc",
+    "url": "/static/media/arrow-black.47168244.svg"
   },
   {
     "revision": "3073d0e6eed3074ac44f5d94ba56ab56",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/static/media/CPM18.7c6967cd.jpg"
   },
   {
-    "revision": "4dfb16d38380d129985c",
-    "url": "/static/js/main.4dfb16d3.chunk.js"
+    "revision": "50bfff689550538c9e8dd30f701f2a40",
+    "url": "/static/media/logo_mupop.50bfff68.jpg"
   },
   {
     "revision": "46e948ff9be5c3dc541daf5f5e6cfe78",
@@ -152,6 +152,10 @@ self.__precacheManifest = [
     "url": "/static/media/typo.b8c5009e.png"
   },
   {
+    "revision": "db970784c22797e7171210824c125312",
+    "url": "/static/media/airmiles_cover.db970784.png"
+  },
+  {
     "revision": "416e9840c62d9b621bf498b408719bcf",
     "url": "/static/media/audi_cover.416e9840.png"
   },
@@ -172,7 +176,7 @@ self.__precacheManifest = [
     "url": "/static/media/csc_cover.39670ac7.png"
   },
   {
-    "revision": "99e86602d81b682d2a59a672e593079e",
+    "revision": "02c049d4e9038a873dd844b886d19c23",
     "url": "/index.html"
   }
 ];
