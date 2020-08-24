@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "5b5d4ffcb1b758de4628",
-    "url": "/static/css/main.b0c82f8b.chunk.css"
+    "revision": "8f71bdb7bd0810643dd5",
+    "url": "/static/css/main.c3cc2e09.chunk.css"
   },
   {
-    "revision": "5b5d4ffcb1b758de4628",
-    "url": "/static/js/main.5b5d4ffc.chunk.js"
+    "revision": "8f71bdb7bd0810643dd5",
+    "url": "/static/js/main.8f71bdb7.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "afcbcff79f46ad626c8c",
-    "url": "/static/js/2.afcbcff7.chunk.js"
+    "revision": "1e46bb80a5ca60bdc420",
+    "url": "/static/js/2.1e46bb80.chunk.js"
   },
   {
     "revision": "30d9dfe98974473162f9036b5579b161",
@@ -156,6 +156,10 @@ self.__precacheManifest = [
     "url": "/static/media/airmiles_cover.db970784.png"
   },
   {
+    "revision": "b315f5d07c16231f2d79d22db2f48d2c",
+    "url": "/static/media/worldstream_cover.b315f5d0.png"
+  },
+  {
     "revision": "416e9840c62d9b621bf498b408719bcf",
     "url": "/static/media/audi_cover.416e9840.png"
   },
@@ -176,7 +180,7 @@ self.__precacheManifest = [
     "url": "/static/media/csc_cover.39670ac7.png"
   },
   {
-    "revision": "02c049d4e9038a873dd844b886d19c23",
+    "revision": "99a3e209eee36d16cdb5613d76f0b760",
     "url": "/index.html"
   }
 ];
