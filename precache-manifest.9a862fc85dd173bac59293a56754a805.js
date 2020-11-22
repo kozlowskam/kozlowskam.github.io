@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "4372f566eb1f819e9e05",
-    "url": "/static/css/main.45931b8a.chunk.css"
+    "revision": "5cf70988b8d6ad031eee",
+    "url": "/static/css/main.5084aca6.chunk.css"
   },
   {
-    "revision": "4372f566eb1f819e9e05",
-    "url": "/static/js/main.4372f566.chunk.js"
+    "revision": "5cf70988b8d6ad031eee",
+    "url": "/static/js/main.5cf70988.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "8c1719930499362cf543",
-    "url": "/static/js/2.8c171993.chunk.js"
+    "revision": "a33c68a8f100aed65fba",
+    "url": "/static/js/2.a33c68a8.chunk.js"
   },
   {
     "revision": "30d9dfe98974473162f9036b5579b161",
@@ -30,6 +30,10 @@ self.__precacheManifest = [
   {
     "revision": "3073d0e6eed3074ac44f5d94ba56ab56",
     "url": "/static/media/github_logo-black.3073d0e6.png"
+  },
+  {
+    "revision": "993f082a8cd0d48d43e2ed0bbc1d8040",
+    "url": "/static/media/behance-logo.993f082a.png"
   },
   {
     "revision": "5eb2e6df3d39c8a4208d49cb56089a76",
@@ -152,39 +156,39 @@ self.__precacheManifest = [
     "url": "/static/media/typo.b8c5009e.png"
   },
   {
-    "revision": "b448de5df921051df0c91fb949b1da6c",
-    "url": "/static/media/theydo_cover.b448de5d.png"
+    "revision": "d5e3743714c9e1ae0dec385218aeb78c",
+    "url": "/static/media/theydo_cover.d5e37437.png"
   },
   {
-    "revision": "db970784c22797e7171210824c125312",
-    "url": "/static/media/airmiles_cover.db970784.png"
+    "revision": "804f55312ec5b9ecfefc74e94ef235a6",
+    "url": "/static/media/airmiles_cover.804f5531.png"
   },
   {
-    "revision": "b315f5d07c16231f2d79d22db2f48d2c",
-    "url": "/static/media/worldstream_cover.b315f5d0.png"
+    "revision": "4890f55790008cae64866e9e690f812d",
+    "url": "/static/media/audi_cover.4890f557.png"
   },
   {
-    "revision": "416e9840c62d9b621bf498b408719bcf",
-    "url": "/static/media/audi_cover.416e9840.png"
+    "revision": "5c388aba83d95fc760d498b4f309d2bc",
+    "url": "/static/media/transformcity_cover.5c388aba.png"
   },
   {
-    "revision": "4863a64c47aba22a000067214b373856",
-    "url": "/static/media/transformcity_cover.4863a64c.png"
+    "revision": "ea0e81e0e415bfde0c1f554b1db68652",
+    "url": "/static/media/worldstream_cover.ea0e81e0.png"
   },
   {
-    "revision": "6d82ce79d0951bfc4b500998f4ed0b4b",
-    "url": "/static/media/urbee_cover.6d82ce79.png"
+    "revision": "9ccf5cf22a73a66158ed1d5db9b059dc",
+    "url": "/static/media/urbee_cover.9ccf5cf2.png"
   },
   {
-    "revision": "00fcaf568913e6734acfd4574b785062",
-    "url": "/static/media/ts_cover.00fcaf56.png"
+    "revision": "d8cf5733efe05e80db219c41cefe9f1d",
+    "url": "/static/media/ts_cover.d8cf5733.png"
   },
   {
-    "revision": "39670ac7011d96a7a65808742bc87e09",
-    "url": "/static/media/csc_cover.39670ac7.png"
+    "revision": "be35c96d7f769badc861d5a9c585d84b",
+    "url": "/static/media/csc_cover.be35c96d.png"
   },
   {
-    "revision": "b47f98398d08386f63347bfb1f332bee",
+    "revision": "ebe8d2d6756cb88beefed47145d2bed9",
     "url": "/index.html"
   }
 ];
