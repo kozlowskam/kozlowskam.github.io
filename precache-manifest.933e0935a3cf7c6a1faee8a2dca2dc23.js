@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/static/media/010cover.30d9dfe9.png"
   },
   {
-    "revision": "47168244c85a4570bbcc5451fb9482cc",
-    "url": "/static/media/arrow-black.47168244.svg"
-  },
-  {
     "revision": "6d8c42fac53f3087b5b5473f6b351b53",
     "url": "/static/media/arrow.6d8c42fa.svg"
+  },
+  {
+    "revision": "47168244c85a4570bbcc5451fb9482cc",
+    "url": "/static/media/arrow-black.47168244.svg"
   },
   {
     "revision": "3073d0e6eed3074ac44f5d94ba56ab56",
@@ -188,7 +188,7 @@ self.__precacheManifest = [
     "url": "/static/media/csc_cover.be35c96d.png"
   },
   {
-    "revision": "eefd2c63b91badc26a605043bb4b810a",
+    "revision": "d08ec51779e2ed1c85d0c5f2e6b6bc9f",
     "url": "/index.html"
   }
 ];
